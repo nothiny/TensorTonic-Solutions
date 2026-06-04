@@ -6,4 +6,3 @@ def matrix_transpose(A):
     """
     # Write code here
     return np.transpose(A)
-    pass
